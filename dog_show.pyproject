@@ -1,0 +1,18 @@
+{
+    "files": [
+        "mainwindow.py",
+        "form.ui",
+        "ui_form.py",
+        "dogshow_db.py",
+        "select_dialog.py",
+        "showing_form.py",
+        "showingform.ui",
+        "ui_showingform.py",
+        "show_report.ui",
+        "ui_show_report.py",
+        "show_report.py",
+        "showclubreport.ui",
+        "ui_showclubreport.py",
+        "show_club_report.py"
+    ]
+}
